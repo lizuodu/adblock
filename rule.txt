@@ -1,4 +1,6 @@
-#https://gitee.com/otgo/adblocker/raw/master/rule.txt
+#https://github.com/lizuodu/adblock/blob/main/rule.txt
+
+sxpdf.com##div[class="header-sub"]
 
 cn.bing.com##div[class*="b_popular_now_pane"]
 
