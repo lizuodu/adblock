@@ -121,6 +121,8 @@ tieba.baidu.com##div[class*="aside"]
 tieba.baidu.com##div[class*="fengchao-wrap-feed"]
 tieba.baidu.com##div[class*="mediago-ad-wrapper"]
 
+pan.baidu.com##div[class*="ad-platform-tips"]
+
 it1352.com##div[id="it1352-PapayAds"]
 it1352.com##div[class^="adsbyvli"]
 it1352.com##img[class^="ad_img"]
