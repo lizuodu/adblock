@@ -60,6 +60,11 @@ cnblogs.com##div[id="side_nav"]
 cnblogs.com##div[id="side_right"]
 cnblogs.com##div[id="div_digg"]
 cnblogs.com##div[id="comment_form"]
+cnblogs.com##div[id="mytopmenu"]
+cnblogs.com##div[id="leftcontent"]
+cnblogs.com##div[id="blog_post_info_block"]
+cnblogs.com##div[class*="footer"]
+
 
 baike.baidu.com##div[class*="side-content"]
 baike.baidu.com##div[class*="before-content"]
