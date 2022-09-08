@@ -125,6 +125,7 @@ tieba.baidu.com##ul[class*="tbui_aside_float_bar"]
 tieba.baidu.com##div[class*="aside"]
 tieba.baidu.com##div[class*="fengchao-wrap-feed"]
 tieba.baidu.com##div[class*="mediago-ad-wrapper"]
+tieba.baidu.com##div[class*="thread_item_box"]
 
 pan.baidu.com##div[class*="ad-platform-tips"]
 
