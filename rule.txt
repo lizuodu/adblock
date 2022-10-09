@@ -20,6 +20,7 @@ oreilly.com##div[class*="global-nav"]
 zhihu.com##header[role*="banner"]
 zhihu.com##div[class*="QuestionHeader"]
 zhihu.com##div[class*="Question-sideColumn"]
+zhihu.com##div[class*="Pc-word"]
 
 zhuanlan.zhihu.com##div[class*="ColumnPageHeader-Wrapper"]
 zhuanlan.zhihu.com##div[class*="RichContent-actions"]
