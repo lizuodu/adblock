@@ -349,3 +349,8 @@ cloud.tencent.com##section[class*="group-comments"]
 cloud.tencent.com##div[class*="col-2-article-tags"]
 cloud.tencent.com##div[class*="col-2-article-opts"]
 cloud.tencent.com##div[class*="col-2-article-source"]
+
+
+www.linuxprobe.com##aside[id="sidebar"]
+www.linuxprobe.com##div[class*="ad"]
+www.linuxprobe.com##div[class="related-thumb"]
