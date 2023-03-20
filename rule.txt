@@ -3,6 +3,7 @@
 sxpdf.com##div[class="header-sub"]
 
 cn.bing.com##div[class*="b_popular_now_pane"]
+cn.bing.com##ol[id="b_context"]
 
 blog.csdn.net##iframe
 blog.csdn.net##div[class*="toolbar-advert"]
