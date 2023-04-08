@@ -187,6 +187,7 @@ jb51.net##div[class*="lbd"]
 jb51.net##div[class*="xgcomm"]
 jb51.net##div[class="il"]
 jb51.net##div[class="ir"]
+jb51.net##div[class="main clearfix"]
 
 jb51.cc##iframe
 jb51.cc##div[class*="ad-box"]
