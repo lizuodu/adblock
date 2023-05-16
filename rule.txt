@@ -365,3 +365,7 @@ cloud.tencent.com##div[class*="col-2-article-source"]
 www.linuxprobe.com##aside[id="sidebar"]
 www.linuxprobe.com##div[class*="ad"]
 www.linuxprobe.com##div[class="related-thumb"]
+
+52im.net##div[id="cngeeker_nv_logo"]
+52im.net##div[class="g_talkwith_siteowner"]
+
