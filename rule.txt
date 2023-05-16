@@ -311,6 +311,12 @@ imooc.com##div[id="J_GotoTop"]
 imooc.com##div[id="footer"]
 
 
+blog.51cto.com##header
+blog.51cto.com##div[class*="Header"]
+blog.51cto.com##aside[class*="detail-content-right"]
+
+
+
 java1234.com##div[align="center"]
 
 
