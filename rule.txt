@@ -369,4 +369,5 @@ www.linuxprobe.com##div[class="related-thumb"]
 52im.net##div[id="cngeeker_nv_logo"]
 52im.net##div[class*="g_talkwith_siteowner"]
 52im.net##div[class*="g_q-view-handle"]
+52im.net##ignore_js_op
 
