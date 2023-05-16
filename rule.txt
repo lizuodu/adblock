@@ -52,7 +52,6 @@ segmentfault.com##div[role*="group"]
 segmentfault.com##div[class*="ad-container"]
 segmentfault.com##ins[class*="adsbygoogle"]
 segmentfault.com##div[class*="mt-4"]
-segmentfault.com##div[class*="mb-4"]
 
 cnblogs.com##div[id*="header"]
 cnblogs.com##div[id*="leftcontentcontainer"]
