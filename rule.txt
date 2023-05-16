@@ -314,7 +314,7 @@ imooc.com##div[id="footer"]
 blog.51cto.com##header
 blog.51cto.com##div[class*="Header"]
 blog.51cto.com##aside[class*="detail-content-right"]
-blog.51cto.com##div[class*="action-aside-left"]
+blog.51cto.com##aside[class*="action-aside-left"]
 blog.51cto.com##aside[class*="minmenu"]
 blog.51cto.com##div[class*="fixtitle"]
 
