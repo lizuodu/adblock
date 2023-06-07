@@ -370,5 +370,5 @@ www.linuxprobe.com##div[class="related-thumb"]
 52im.net##div[class*="g_q-view-handle"]
 
 
-wenjiangs.com##div[id="pcNav"]
+wenjiangs.com##nav[id="pcNav"]
 wenjiangs.com##div[class="col-md-4"]
