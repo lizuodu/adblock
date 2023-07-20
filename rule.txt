@@ -372,3 +372,8 @@ www.linuxprobe.com##div[class="related-thumb"]
 
 wenjiangs.com##nav[id="pcNav"]
 wenjiangs.com##div[class="col-md-4"]
+
+
+developer.aliyun.com##div[id="right-box"]
+developer.aliyun.com##div[class="aliyun-module"]
+
