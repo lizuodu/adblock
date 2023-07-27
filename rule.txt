@@ -132,14 +132,15 @@ tieba.baidu.com##div[class*="thread_item_box"]
 pan.baidu.com##div[class*="ad-platform-tips"]
 
 it1352.com##div[id="it1352-PapayAds"]
-it1352.com##div[class^="adsbyvli"]
-it1352.com##img[class^="ad_img"]
+it1352.com##div[class*="adsbyvli"]
+it1352.com##img[class*="ad_img"]
 it1352.com##nav[class^="navbar"]
-it1352.com##ins[class^="adsbygoogle"]
+it1352.com##ins[class*="adsbygoogle"]
+it1352.com##div[class*="wwads-cn"]
 it1352.com##ins[id="lv-container"]
 it1352.com##iframe
 
-
+techiedelight.com##div[id="sidebar-primary"]
 
 
 runoob.com##div[class*="sidebar-box"]
