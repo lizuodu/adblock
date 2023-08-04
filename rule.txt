@@ -351,6 +351,9 @@ bbs.huaweicloud.com##div[class*="cloud-blog-detail-right"]
 bbs.huaweicloud.com##div[ul*="float-left-lists"]
 
 
+cloud.tencent.com##div[class*="cdc-header"]
+cloud.tencent.com##div[class*="cdc-suspend-pill"]
+cloud.tencent.com##div[class*="cdc-layout__side"]
 cloud.tencent.com##div[class*="J-header"]
 cloud.tencent.com##div[class*="com-sticky-header"]
 cloud.tencent.com##div[class*="main-cnt"]
