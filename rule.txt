@@ -287,6 +287,7 @@ sourceforge.net##div[class*="l-side-column"]
 sourceforge.net##section[class*="l-header-nav-top"]
 
 
+163.com##iframe
 163.com##div[class*="ntes_nav_wrap"]
 163.com##div[class*="post_side"]
 163.com##div[class*="post_top"]
