@@ -1,6 +1,6 @@
 #https://github.com/lizuodu/adblock/blob/main/rule.txt
 
-sxpdf.com##div[class="header-sub"]
+github.com##div[class="Layout-sidebar"]
 
 cn.bing.com##div[class*="b_popular_now_pane"]
 cn.bing.com##ol[id="b_context"]
