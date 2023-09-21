@@ -130,6 +130,7 @@ tieba.baidu.com##div[class*="mediago-ad-wrapper"]
 tieba.baidu.com##div[class*="thread_item_box"]
 
 pan.baidu.com##div[class*="ad-platform-tips"]
+pan.baidu.com##div[class*="mainContent"]
 
 it1352.com##div[id="it1352-PapayAds"]
 it1352.com##div[class*="adsbyvli"]
