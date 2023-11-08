@@ -383,3 +383,7 @@ wenjiangs.com##div[class="col-md-4"]
 developer.aliyun.com##div[id="right-box"]
 developer.aliyun.com##div[class="aliyun-module"]
 
+
+bpmts.ijovo.com##img[id="login-bg"]
+bpm.ijovo.com##img[id="login-bg"]
+
