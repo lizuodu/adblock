@@ -237,8 +237,7 @@ my.oschina.net##div[class*="detail-toolbar-box"]
 
 oschina.net##div[class*="small-header-box"]
 oschina.net##div[class*="sidebar-box"]
-
-
+oschina.net##div[name="index_banner_bigger_new"]
 
 
 
