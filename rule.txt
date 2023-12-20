@@ -1,5 +1,7 @@
 #https://github.com/lizuodu/adblock/blob/main/rule.txt
 
+www.uzzf.com##div[class*="address_r"]
+
 github.com##div[class="js-profile-editable-replace"]
 
 cn.bing.com##div[class*="b_popular_now_pane"]
