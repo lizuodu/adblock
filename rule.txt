@@ -30,6 +30,7 @@ zhuanlan.zhihu.com##div[class*="RichContent-actions"]
 zhuanlan.zhihu.com##img[class*="TitleImage"]
 zhuanlan.zhihu.com##button[class*="FollowButton"]
 zhuanlan.zhihu.com##button[class*="Reward"]
+zhuanlan.zhihu.com##picture
 
 
 sohu.com##iframe
