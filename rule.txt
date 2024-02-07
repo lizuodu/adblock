@@ -72,13 +72,7 @@ cnblogs.com##div[class*="footer"]
 
 
 baike.baidu.com##div[class^="secondContainer"]
-baike.baidu.com##div[class^="index-module"]
-baike.baidu.com##div[id="side"]
-baike.baidu.com##div[class^="guessLike"]
-baike.baidu.com##div[class^="relatedSearch"]
-baike.baidu.com##div[class^="lemmaReference"]
-baike.baidu.com##div[class^="albumList"]
-baike.baidu.com##div[class="page-footer-content"]
+
 
 
 fanyi.baidu.com##div[class*="footer"]
